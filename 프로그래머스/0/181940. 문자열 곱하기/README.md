@@ -72,3 +72,6 @@
 
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
+
+<p> string.repeat(i) - string을 i번 반복해서 입력 </p>
+
